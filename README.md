@@ -1,8 +1,3 @@
-# sastopy
-
-Sure, here's how you could update your README file:
-
----
 
 # PyDataSpock: An AI-Powered SAS to Python Code Converter
 
