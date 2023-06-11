@@ -12,11 +12,14 @@ This AI-powered tool utilizes state-of-the-art algorithms to parse and understan
 
 3. **Ease of Use:** With straightforward setup and execution, Transformotron makes SAS to Python code conversion as easy as running a script.
 
+4. **Unit Test Coverage:** Bot also writes unit tests for converted python files and achieves a code coverage of 80%. 
+
 To get started with Transformotron, please refer to the Setup and Usage guides. For any questions, issues, or feature suggestions, feel free to open an issue or pull request.
 
 ## Disclaimer
 Please note that while Transformotron aims to provide accurate code conversion, there may be instances where manual review and adjustment is necessary. It's recommended to thoroughly test the converted Python code to ensure it functions as expected.
 
+## Preview
 
 <img width="836" alt="image" src="https://github.com/hribab/sastopy/assets/6744384/0c67860a-c24e-4eb6-83ef-297de2642b6e">
 
