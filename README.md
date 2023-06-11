@@ -18,3 +18,5 @@ To get started with Transformotron, please refer to the Setup and Usage guides. 
 Please note that while Transformotron aims to provide accurate code conversion, there may be instances where manual review and adjustment is necessary. It's recommended to thoroughly test the converted Python code to ensure it functions as expected.
 
 
+<img width="836" alt="image" src="https://github.com/hribab/sastopy/assets/6744384/0c67860a-c24e-4eb6-83ef-297de2642b6e">
+
