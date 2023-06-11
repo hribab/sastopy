@@ -17,6 +17,4 @@ To get started with PyDataSpock, please refer to the Setup and Usage guides. For
 ## Disclaimer
 Please note that while PyDataSpock aims to provide accurate code conversion, there may be instances where manual review and adjustment is necessary. It's recommended to thoroughly test the converted Python code to ensure it functions as expected.
 
----
 
-This update focuses on the main features and benefits of your bot. It makes the function of your bot clear, explains why it is useful, and lets users know what they can expect.
